@@ -1,0 +1,13 @@
+com\dhanggas\entiry\Buku.class
+com\dhanggas\controllers\HomeController.class
+com\dhanggas\entiry\Penerbit.class
+com\dhanggas\services\BukuRepository.class
+com\dhanggas\controllers\penerbit\ListPenerbitController.class
+com\dhanggas\MainApp$1.class
+com\dhanggas\config\Bootinitializable.class
+com\dhanggas\entiry\PinjamBuku.class
+com\dhanggas\controllers\buku\ListBukuController.class
+com\dhanggas\controllers\buku\FormBukuController.class
+com\dhanggas\entiry\Anggota.class
+com\dhanggas\MainApp.class
+com\dhanggas\services\PenerbitRepository.class
